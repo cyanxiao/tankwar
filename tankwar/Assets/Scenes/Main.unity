@@ -1086,7 +1086,7 @@ PrefabInstance:
     - target: {fileID: 1179085349070343547, guid: 6d8763cc645f3aa47995b4db83d65b9a,
         type: 3}
       propertyPath: m_TagString
-      value: Attack
+      value: Jump
       objectReference: {fileID: 0}
     - target: {fileID: 3814459325689751289, guid: 6d8763cc645f3aa47995b4db83d65b9a,
         type: 3}
