@@ -820,4 +820,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/Main.unity
-  playerPath: "C:/Users/\u8A00\u7BAB/Desktop/tankwar.exe"
+  playerPath: E:/Tank/tankwar.exe
